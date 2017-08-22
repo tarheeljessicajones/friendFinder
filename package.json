@@ -1,0 +1,24 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "HW 11",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarheeljessicajones/friendFinder.git"
+  },
+  "author": "Jessica Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarheeljessicajones/friendFinder/issues"
+  },
+  "homepage": "https://github.com/tarheeljessicajones/friendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "path": "^0.12.7"
+  }
+}
